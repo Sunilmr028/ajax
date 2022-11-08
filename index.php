@@ -8,7 +8,7 @@
 	
 	<body>
 		<select id='brand'>
-			<option value='nokia'>nokia</option>
+			<option value='nokiaa'>nokia</option>
 			<option value='motorola'>motorola</option>
 			<option value='samsung'>samsung</option>
 		</select>
