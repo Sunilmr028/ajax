@@ -11,6 +11,7 @@
 			<option value='nokiaa'>nokia</option>
 			<option value='motorola'>motorola</option>
 			<option value='samsung'>samsung</option>
+			<option value='samsung'>oppo</option>
 		</select>
 		
 		<select id='item'>
